@@ -9,6 +9,7 @@ You will need the following installed:
 - **Elixir** ~> 1.18
 - **Erlang/OTP** ~> 28.1
 - **Node.js** ~> 23.6
+- **Rust** ~> 1.93
 - **Windows users:** [WSL2](https://learn.microsoft.com/en-us/windows/wsl/install) (follow the Linux instructions inside your WSL2 environment)
 
 ### Installing with asdf (recommended)
@@ -23,6 +24,7 @@ We recommend using [asdf](https://asdf-vm.com/) to manage tool versions.
 asdf plugin add erlang
 asdf plugin add elixir
 asdf plugin add nodejs
+asdf plugin add rust
 ```
 
 3. **Install the correct versions** from the project's `.tool-versions` file:

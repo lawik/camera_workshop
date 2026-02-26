@@ -126,3 +126,8 @@ mix firmware.gen.script
 - SSH access with user `exnvr` and password `nerves`
 - Network configured via DHCP
 - Web UI accessible on port 4000
+
+
+## Models for YOLO on laptop
+
+https://drive.google.com/drive/folders/11f4m9CRN5R9o5ooktD6hgHCOFcrvhFh5?usp=sharing
